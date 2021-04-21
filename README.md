@@ -8,9 +8,9 @@ Present json data in a list and detail view. Use a tab bar to show two version o
 *
 *
 ## Credit
-[Hackingwithswift project 7](www.hackingwithswift.com/100/33)
+[Hackingwithswift project 7](https://www.hackingwithswift.com/100/33)
 
-[Scene Delegate Life Cycle](www.dev2qa.com/swift-xcode-11-ios-13-scene-delegate-life-cycle-example)
+[Scene Delegate Life Cycle](https://www.dev2qa.com/swift-xcode-11-ios-13-scene-delegate-life-cycle-example)
 ## Swift topics
 *
 *
