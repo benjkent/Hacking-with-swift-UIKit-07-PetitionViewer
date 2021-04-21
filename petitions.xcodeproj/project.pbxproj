@@ -30,6 +30,7 @@
 		74840587262F789A00474C4B /* Petition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Petition.swift; sourceTree = "<group>"; };
 		7484058A262F790900474C4B /* Petitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Petitions.swift; sourceTree = "<group>"; };
 		7484058D262F88F300474C4B /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		74840591262FAFBB00474C4B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,6 +47,7 @@
 		74840566262F6C0400474C4B = {
 			isa = PBXGroup;
 			children = (
+				74840591262FAFBB00474C4B /* README.md */,
 				74840571262F6C0400474C4B /* petitions */,
 				74840570262F6C0400474C4B /* Products */,
 			);
